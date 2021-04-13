@@ -1,4 +1,4 @@
-![Cover](https://media-exp1.licdn.com/dms/image/C4D16AQEbaPJAabGapQ/profile-displaybackgroundimage-shrink_200_800/0/1603651256817?e=1617840000&v=beta&t=w96js8KnJ2dm7M2VqxHZHnmpewzmhFahZSEo9RF8-q0)
+![Cover](https://media-exp1.licdn.com/dms/image/C4D16AQEbaPJAabGapQ/profile-displaybackgroundimage-shrink_350_1400/0/1603651256817?e=1623888000&v=beta&t=Qg9Uy2ZEcLOdGiwqA-G2GeqENm3MyJSLM5Zeyo1eFVE)
 
 # Hello World, I'm Alexander 👋
 
