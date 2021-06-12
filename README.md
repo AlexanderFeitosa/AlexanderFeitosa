@@ -3,7 +3,7 @@
 # Hello World, I'm Alexander 👋
 
 ```javascript
-const myself = {
+let myself = {
   name: "Alexander Alves Feitosa",
   age: 41,
   city: "São Paulo",
