@@ -12,7 +12,7 @@ let myself = {
   frontEndSkills: ["HTML5", "CSS3", "React JS"],
   backEndSkills: ["Javascript", "Node JS", "Express JS"],
   dataBaseSkills: ["SQL", "MongoDB"],
-  dataScienceSkills: ["Python", "numPy", "Pandas", "Flourish", "Storytelling"],
+  dataScienceSkills: ["Python", "numPy", "Pandas", "Storytelling"],
 };
 ```
 ### My Professional Contact: <a href="https://www.linkedin.com/in/alexanderfeitosa/" target="_blank" >
