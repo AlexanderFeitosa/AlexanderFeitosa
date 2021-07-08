@@ -1,4 +1,4 @@
-![Cover](https://media-exp1.licdn.com/dms/image/C4D16AQEbaPJAabGapQ/profile-displaybackgroundimage-shrink_350_1400/0/1603651256817?e=1623888000&v=beta&t=Qg9Uy2ZEcLOdGiwqA-G2GeqENm3MyJSLM5Zeyo1eFVE)
+![Cover](https://www.impacta.com.br/blog/wp-content/uploads/2020/04/shutterstock_746652745.png)
 
 # Hello World, I'm Alexander 👋
 
